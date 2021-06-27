@@ -1,3 +1,11 @@
+/* Grupo:
+	Jean C. Bueno
+	Sarah Moreira Messias
+	Nicolas Juliani Ferreira
+	Nicholas Lopes de Almeida
+	Matheus Lopes dos Santos
+*/
+
 package viewers;
 
 import java.awt.event.ActionEvent;
