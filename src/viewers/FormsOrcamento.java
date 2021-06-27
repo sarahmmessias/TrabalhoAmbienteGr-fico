@@ -107,7 +107,7 @@ public class FormsOrcamento extends JFrame implements ActionListener {
                     }
 		}
 
-		// Se o ID não existe, os dados digitados serão processador
+		// Se o ID não existe, os dados digitados serão processados
 		if (confirm) {
                     Orcamento orc = new Orcamento();
                     orc.setId(Integer.valueOf(id.getText()));
